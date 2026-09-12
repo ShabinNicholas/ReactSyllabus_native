@@ -1,4 +1,4 @@
-# 7. Side Effects — useEffect
+# 8. Side Effects — useEffect
 
 ## Why side effects are needed
 
@@ -161,4 +161,4 @@ useEffect(() => {
 // Bonus: reset the countdown whenever the `seconds` prop changes.
 ```
 
-Next up: [8. Component Composition](08-component-composition.md) →
+Next up: [9. Refs — useRef](09-refs-useref.md) →

@@ -1,4 +1,4 @@
-# 6. Rendering Lists
+# 7. Rendering Lists
 
 ## What list rendering is
 
@@ -115,4 +115,4 @@ Combine with `.filter()` to render a subset:
 //   - above the list, shows "X of Y done" computed from the array
 ```
 
-Next up: [7. Side Effects — useEffect](07-side-effects-useeffect.md) →
+Next up: [8. Side Effects — useEffect](08-side-effects-useeffect.md) →

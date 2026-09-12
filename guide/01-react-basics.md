@@ -134,7 +134,7 @@ function Fixed() {
 }
 ```
 
-`<>...</>` is shorthand for `<React.Fragment>...</React.Fragment>`. Use the long form when you need a `key` (see [Rendering Lists](06-rendering-lists.md)).
+`<>...</>` is shorthand for `<React.Fragment>...</React.Fragment>`. Use the long form when you need a `key` (see [Rendering Lists](07-rendering-lists.md)).
 
 ## Checklist
 

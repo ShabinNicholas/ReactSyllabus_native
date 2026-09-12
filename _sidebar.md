@@ -9,12 +9,14 @@
 
 - **Interactivity**
   - [4. Event Handling](guide/04-event-handling.md)
-  - [5. Conditional Rendering](guide/05-conditional-rendering.md)
-  - [6. Rendering Lists](guide/06-rendering-lists.md)
+  - [5. Controlled Components](guide/05-controlled-components.md)
+  - [6. Conditional Rendering](guide/06-conditional-rendering.md)
+  - [7. Rendering Lists](guide/07-rendering-lists.md)
 
 - **Effects & Structure**
-  - [7. Side Effects — useEffect](guide/07-side-effects-useeffect.md)
-  - [8. Component Composition](guide/08-component-composition.md)
+  - [8. Side Effects — useEffect](guide/08-side-effects-useeffect.md)
+  - [9. Refs — useRef](guide/09-refs-useref.md)
+  - [10. Component Composition](guide/10-component-composition.md)
 
 - **Next**
-  - [Where to go from here](guide/09-next-steps.md)
+  - [Where to go from here](guide/11-next-steps.md)

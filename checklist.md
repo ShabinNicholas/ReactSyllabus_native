@@ -42,21 +42,30 @@ The complete *React Syllabus Checklist* on one page. Tick off each topic as you 
 - [ ] Passing arguments to a handler
 - [ ] Updating state from an event
 
-## 5. [Conditional Rendering](guide/05-conditional-rendering.md)
+## 5. [Controlled Components](guide/05-controlled-components.md)
+
+- [ ] Controlled vs uncontrolled inputs
+- [ ] value driven by state
+- [ ] onChange updates state
+- [ ] Reading input value from state
+- [ ] Controlled checkbox / select
+- [ ] Managing multiple form fields with one state object
+
+## 6. [Conditional Rendering](guide/06-conditional-rendering.md)
 
 - [ ] if / else rendering
 - [ ] Ternary operator in JSX
 - [ ] && short-circuit rendering
 - [ ] Showing / hiding UI based on state
 
-## 6. [Rendering Lists](guide/06-rendering-lists.md)
+## 7. [Rendering Lists](guide/07-rendering-lists.md)
 
 - [ ] Rendering arrays with map()
 - [ ] The key prop
 - [ ] Why keys matter
 - [ ] Rendering a list of components
 
-## 7. [Side Effects — useEffect](guide/07-side-effects-useeffect.md)
+## 8. [Side Effects — useEffect](guide/08-side-effects-useeffect.md)
 
 - [ ] Why side effects are needed
 - [ ] useEffect hook
@@ -67,7 +76,15 @@ The complete *React Syllabus Checklist* on one page. Tick off each topic as you 
 - [ ] Cleanup function
 - [ ] Effect order with state updates
 
-## 8. [Component Composition](guide/08-component-composition.md)
+## 9. [Refs — useRef](guide/09-refs-useref.md)
+
+- [ ] Creating a ref with useRef
+- [ ] ref.current
+- [ ] Referencing a component
+- [ ] Persisting a value without rerendering
+- [ ] Refs vs state
+
+## 10. [Component Composition](guide/10-component-composition.md)
 
 - [ ] Breaking UI into components
 - [ ] Nesting components

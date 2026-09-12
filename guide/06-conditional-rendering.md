@@ -1,4 +1,4 @@
-# 5. Conditional Rendering
+# 6. Conditional Rendering
 
 ## What conditional rendering is
 
@@ -124,4 +124,4 @@ function Warning({ show }) {
 //   - below the input, shows "Too short" (via &&) only when value.length is 1–7
 ```
 
-Next up: [6. Rendering Lists](06-rendering-lists.md) →
+Next up: [7. Rendering Lists](07-rendering-lists.md) →

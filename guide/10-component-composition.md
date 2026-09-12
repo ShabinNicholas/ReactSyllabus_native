@@ -1,4 +1,4 @@
-# 8. Component Composition
+# 10. Component Composition
 
 ## What composition is
 
@@ -166,4 +166,4 @@ Signs a component is reusable: no hard-coded text, no assumptions about where it
 // Notice how state lives only in <TodoApp> and flows down; events flow up.
 ```
 
-Next up: [Where to go from here](09-next-steps.md) →
+Next up: [Where to go from here](11-next-steps.md) →

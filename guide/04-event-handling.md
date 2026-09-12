@@ -155,4 +155,4 @@ function NameField() {
 //   - a "Reset" button (inline handler) that sets count back to 0
 ```
 
-Next up: [5. Conditional Rendering](05-conditional-rendering.md) →
+Next up: [5. Controlled Components](05-controlled-components.md) →

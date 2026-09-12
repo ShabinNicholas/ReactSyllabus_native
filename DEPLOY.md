@@ -17,11 +17,13 @@ This is a [Docsify](https://docsify.js.org/) site — pure static files, no buil
     ├── 02-props.md
     ├── 03-state-usestate.md
     ├── 04-event-handling.md
-    ├── 05-conditional-rendering.md
-    ├── 06-rendering-lists.md
-    ├── 07-side-effects-useeffect.md
-    ├── 08-component-composition.md
-    └── 09-next-steps.md
+    ├── 05-controlled-components.md
+    ├── 06-conditional-rendering.md
+    ├── 07-rendering-lists.md
+    ├── 08-side-effects-useeffect.md
+    ├── 09-refs-useref.md
+    ├── 10-component-composition.md
+    └── 11-next-steps.md
 ```
 
 ## Preview locally

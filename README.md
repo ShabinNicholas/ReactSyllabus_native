@@ -18,10 +18,12 @@ Pick a topic from the sidebar, or follow the syllabus in order if you're learnin
 2. **[Props](guide/02-props.md)** — passing data into components.
 3. **[State — useState](guide/03-state-usestate.md)** — data that changes over time.
 4. **[Event Handling](guide/04-event-handling.md)** — responding to the user.
-5. **[Conditional Rendering](guide/05-conditional-rendering.md)** — showing UI based on state.
-6. **[Rendering Lists](guide/06-rendering-lists.md)** — turning arrays into UI.
-7. **[Side Effects — useEffect](guide/07-side-effects-useeffect.md)** — syncing with the outside world.
-8. **[Component Composition](guide/08-component-composition.md)** — building bigger UIs from small pieces.
+5. **[Controlled Components](guide/05-controlled-components.md)** — form inputs driven by state.
+6. **[Conditional Rendering](guide/06-conditional-rendering.md)** — showing UI based on state.
+7. **[Rendering Lists](guide/07-rendering-lists.md)** — turning arrays into UI.
+8. **[Side Effects — useEffect](guide/08-side-effects-useeffect.md)** — syncing with the outside world.
+9. **[Refs — useRef](guide/09-refs-useref.md)** — direct DOM access and values that skip re-renders.
+10. **[Component Composition](guide/10-component-composition.md)** — building bigger UIs from small pieces.
 
 See the **[Full Checklist](checklist.md)** for every item on one page.
 

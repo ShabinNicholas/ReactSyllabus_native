@@ -15,8 +15,9 @@
 
 - **Effects & Structure**
   - [8. Side Effects — useEffect](guide/08-side-effects-useeffect.md)
-  - [9. Refs — useRef](guide/09-refs-useref.md)
-  - [10. Component Composition](guide/10-component-composition.md)
+  - [9. Data Fetching (with Axios)](guide/09-data-fetching-axios.md)
+  - [10. Refs — useRef](guide/10-refs-useref.md)
+  - [11. Component Composition](guide/11-component-composition.md)
 
 - **Next**
-  - [Where to go from here](guide/11-next-steps.md)
+  - [Where to go from here](guide/12-next-steps.md)

@@ -2,7 +2,7 @@
 
 > Core React concepts needed before starting React Native
 
-- 10 sections, from JSX to component composition
+- 11 sections, from JSX to component composition
 - Every concept paired with runnable, commented code
 - A checklist you can tick off as you learn
 

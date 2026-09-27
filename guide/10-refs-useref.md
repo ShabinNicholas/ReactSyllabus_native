@@ -1,4 +1,4 @@
-# 9. Refs — useRef
+# 10. Refs — useRef
 
 ## What a ref is
 
@@ -116,4 +116,4 @@ Rule of thumb: **if the UI needs to change when the value changes, use state; if
 // Bonus: add an <input ref={...} /> that auto-focuses on mount via useEffect.
 ```
 
-Next up: [10. Component Composition](10-component-composition.md) →
+Next up: [11. Component Composition](11-component-composition.md) →

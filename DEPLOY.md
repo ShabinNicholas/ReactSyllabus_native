@@ -21,9 +21,10 @@ This is a [Docsify](https://docsify.js.org/) site — pure static files, no buil
     ├── 06-conditional-rendering.md
     ├── 07-rendering-lists.md
     ├── 08-side-effects-useeffect.md
-    ├── 09-refs-useref.md
-    ├── 10-component-composition.md
-    └── 11-next-steps.md
+    ├── 09-data-fetching-axios.md
+    ├── 10-refs-useref.md
+    ├── 11-component-composition.md
+    └── 12-next-steps.md
 ```
 
 ## Preview locally

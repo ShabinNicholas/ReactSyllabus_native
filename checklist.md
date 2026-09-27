@@ -76,7 +76,15 @@ The complete *React Syllabus Checklist* on one page. Tick off each topic as you 
 - [ ] Cleanup function
 - [ ] Effect order with state updates
 
-## 9. [Refs — useRef](guide/09-refs-useref.md)
+## 9. [Data Fetching (with Axios)](guide/09-data-fetching-axios.md)
+
+- [ ] What Axios is & why use it
+- [ ] Making a GET request
+- [ ] Fetching data inside useEffect
+- [ ] Loading & error states
+- [ ] Displaying fetched data
+
+## 10. [Refs — useRef](guide/10-refs-useref.md)
 
 - [ ] Creating a ref with useRef
 - [ ] ref.current
@@ -84,7 +92,7 @@ The complete *React Syllabus Checklist* on one page. Tick off each topic as you 
 - [ ] Persisting a value without rerendering
 - [ ] Refs vs state
 
-## 10. [Component Composition](guide/10-component-composition.md)
+## 11. [Component Composition](guide/11-component-composition.md)
 
 - [ ] Breaking UI into components
 - [ ] Nesting components

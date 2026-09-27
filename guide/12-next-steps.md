@@ -1,6 +1,6 @@
 # Where to go from here
 
-You've covered the ten core areas of the *React Syllabus Checklist*. If every box is ticked, you're ready to start **React Native**.
+You've covered the eleven core areas of the *React Syllabus Checklist*. If every box is ticked, you're ready to start **React Native**.
 
 ## You should now be comfortable with
 
@@ -12,6 +12,7 @@ You've covered the ten core areas of the *React Syllabus Checklist*. If every bo
 - Conditional rendering with `if`, ternaries, and `&&`
 - Rendering lists with `.map()` and stable `key`s
 - Running side effects with `useEffect`, dependency arrays, and cleanup
+- Fetching data with Axios, including loading and error states
 - Using `useRef` for DOM access and values that persist without re-rendering
 - Composing UIs from small, reusable components and lifting state up
 
@@ -35,7 +36,7 @@ You've covered the ten core areas of the *React Syllabus Checklist*. If every bo
 - The rules of hooks
 - Custom hooks (extracting reusable logic)
 - Context API (avoiding deep prop drilling)
-- A data-fetching library (TanStack Query)
+- A data-fetching library that adds caching and refetching (TanStack Query)
 - React Navigation (once you're in React Native)
 
 ## Official docs

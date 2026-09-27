@@ -161,4 +161,4 @@ useEffect(() => {
 // Bonus: reset the countdown whenever the `seconds` prop changes.
 ```
 
-Next up: [9. Refs — useRef](09-refs-useref.md) →
+Next up: [9. Data Fetching (with Axios)](09-data-fetching-axios.md) →
